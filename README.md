@@ -195,6 +195,6 @@ Please ensure your code adheres to the existing style and includes relevant test
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://gemini.google.com/u/1/app/LICENSE "null") file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://mit-license.org/) file for details.
 
-Made with ❤️ by [Marshallcodes](), [Praise Oladejo](https://github.com/luwanise), [Misan]()/Organization
+Made with ❤️ by [Marshallcodes](https://github.com/marshallcodes), [Praise Oladejo](https://github.com/luwanise), [Oritsemisan Omare](https://github.com/MisanOmar3)/REACHVERSE
