@@ -1,4 +1,6 @@
 # Ignore files and directories
+accounts.db
+.env
 
 # Logs
 /logs/
